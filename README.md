@@ -18,7 +18,7 @@ CLI tool accept 4 options:
 
 **1. -a, --action [type]** — an action encode/decode **(required)**
 
-**2. -s, --shift [nymber]** — a shift **(required)** 
+**2. -s, --shift [number]** — a shift **(required)** 
 
 **3. -i, --input [filename]** — an input file 
 
